@@ -1,5 +1,6 @@
 /* eslint-disable import/prefer-default-export */
 
+import csCZ from './cs-CZ';
 import deCH from './de-CH';
 import deDE from './de-DE';
 import enUS from './en-US';
@@ -14,6 +15,7 @@ import zhCN from './zh-CN';
 import zhTW from './zh-TW';
 
 export {
+  csCZ,
   deCH,
   deDE,
   enUS,
